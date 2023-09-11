@@ -2,7 +2,7 @@ import os
 os.system("color")
 
 data = []
-print("Please paste your referenced sources.\n")
+print("Please paste your sources.\n")
 while True:
     line = input().strip()
     if not line:
