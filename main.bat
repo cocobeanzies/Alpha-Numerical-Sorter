@@ -1,1 +1,1 @@
-start cmd /k python "harvard reference.py"
+start cmd /k python "main.py"
